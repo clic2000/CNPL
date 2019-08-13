@@ -1,6 +1,6 @@
 # CNPL
 
-Cooperative Non-Violent Public License v0 (CNPLv0)
+Cooperative Non-Violent Public License v1 (CNPLv1)
 
 
 License information and summary of purpose here: https://thufie.lain.haus/NPL.html

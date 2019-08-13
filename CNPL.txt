@@ -1,10 +1,10 @@
 [Work Title]
 Copyright [Author] [Year]
 
-COOPERATIVE NON-VIOLENT PUBLIC LICENSE v0
+COOPERATIVE NON-VIOLENT PUBLIC LICENSE v1
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS
-COOPERATIVE NON-VIOLENT PUBLIC LICENSE v0 ("LICENSE"). THE WORK IS
+COOPERATIVE NON-VIOLENT PUBLIC LICENSE v1 ("LICENSE"). THE WORK IS
 PROTECTED BY COPYRIGHT AND ALL OTHER APPLICABLE LAWS. ANY USE OF THE
 WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS
 PROHIBITED. BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED IN THIS
@@ -399,7 +399,27 @@ TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.
           will continue in full force and effect unless terminated as
           stated above.
 
-8. MISCELLANEOUS
+8. REVISED LICENSE VERSIONS
+
+          a. This License may receive future revisions in the original
+          spirit of the license intended to strengthen This License.
+          Each version of This License has an incrementing version number.
+
+          b. Unless otherwise specified like in Section 8(c) The Licensor
+          has only granted this current version of This License for The Work.
+          In this case future revisions do not apply.
+
+          c. The Licensor may specify that the latest available
+          revision of This License be used for The Work by either explicitly
+          writing so or by suffixing the License URI with a "+" symbol.
+
+          d. The Licensor may specify that The Work is also available
+          under the terms of This License's current revision as well
+          as specific future revisions. The Licensor may do this by
+          writing it explicitly or suffixing the License URI with any
+          additional version numbers each separated by a comma.
+
+9. MISCELLANEOUS
 
           a. Each time You Distribute or Publicly Perform the Work or a
           Collection, the Licensor offers to the recipient a license to
