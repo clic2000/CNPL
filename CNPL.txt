@@ -141,6 +141,15 @@ TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.
           interpret or modify information that is subsequently and directly
           served to users over the Internet.
 
+          q. "Discriminate" means the use of a work to differentiate between
+          humans in a such a way which prioritizes some above others on the
+          basis of percieved membership within certain groups.
+
+          r. "Hate Speech" means communication or any form
+          of expression which is solely for the purpose of expressing hatred
+          for some group or advocating a form of Discrimination
+          (to Discriminate per definition in (q)) between humans.
+
 2. FAIR DEALING RIGHTS
 
    Nothing in this License is intended to reduce, limit, or restrict any
@@ -269,8 +278,8 @@ TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.
               vii. You do not use the Work for the purpose of
               expediting, coordinating, or facilitating paid work
               undertaken by individuals under the age of 12 years.
-              viii. You do not use the Work to either discriminate or
-              spread hate speech on the basis of sex, sexual orientation,
+              viii. You do not use the Work to either Discriminate or
+              spread Hate Speech on the basis of sex, sexual orientation,
               gender identity, race, age, disability, color, national origin,
               religion, or lower economic status.
 
