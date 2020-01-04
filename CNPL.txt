@@ -1,10 +1,10 @@
 [Work Title]
 Copyright [Author] [Year]
 
-COOPERATIVE NON-VIOLENT PUBLIC LICENSE v2
+COOPERATIVE NON-VIOLENT PUBLIC LICENSE v3
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS
-COOPERATIVE NON-VIOLENT PUBLIC LICENSE v2 ("LICENSE"). THE WORK IS
+COOPERATIVE NON-VIOLENT PUBLIC LICENSE v3 ("LICENSE"). THE WORK IS
 PROTECTED BY COPYRIGHT AND ALL OTHER APPLICABLE LAWS. ANY USE OF THE
 WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS
 PROHIBITED. BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED IN THIS
@@ -38,8 +38,8 @@ TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.
           timed-relation with a moving image ("synching") will be
           considered an Adaptation for the purpose of this License.
 
-          c. "Bodily Harm" means any action of one person towards another
-          in an intentional manner.
+          c. "Bodily Harm" means any malicious action of one person towards
+          another which endagers physical health in an intentional manner.
 
           d. "Collection" means a collection of literary or artistic
           works, such as encyclopedias and anthologies, or performances,
