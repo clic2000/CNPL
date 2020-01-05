@@ -3,6 +3,21 @@ Copyright [Author] [Year]
 
 COOPERATIVE NON-VIOLENT PUBLIC LICENSE v3
 
+Preamble
+
+The Cooperative Non-Violent Public license is a freedom-respecting sharealike
+license for both the author of a work as well as those subject to a work.
+It aims to protect the basic rights of human beings from exploitation,
+the earth from plunder, and the equal treatment of the workers involved in the
+creation of the work. It aims to ensure a copyrighted work is forever
+available for public use, modification, and redistribution under the same
+terms so long as the work is not used for harm. For more information about
+the CNPL refer to the official webpage
+
+Official Webpage: https://thufie.lain.haus/NPL.html
+
+Terms and Conditions
+
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS
 COOPERATIVE NON-VIOLENT PUBLIC LICENSE v3 ("LICENSE"). THE WORK IS
 PROTECTED BY COPYRIGHT AND ALL OTHER APPLICABLE LAWS. ANY USE OF THE
