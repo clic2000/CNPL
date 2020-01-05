@@ -77,8 +77,7 @@ TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.
 
           f. "Incarceration" means confinement in a jail, prison, or any
           other place where individuals of any kind are held against
-          either their will or the will of their legal guardians by physical
-          means.
+          either their will or the will of their legal guardians.
 
           g. "Licensor" means the individual, individuals, entity or
           entities that offer(s) the Work under the terms of this License.
