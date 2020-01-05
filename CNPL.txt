@@ -149,8 +149,9 @@ TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.
           through which the Original Author and/or Distributor originally
           created, derived, and/or modified it.
 
-          o. "Surveilling" means the use of the Work to
-          overtly or covertly observe persons or their activities.
+          o. "Surveilling" means the use of the Work to either
+          overtly or covertly observe and record persons and or their
+          activities.
 
           p. "Web Service" means the use of a piece of Software to
           interpret or modify information that is subsequently and directly
