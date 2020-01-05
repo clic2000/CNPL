@@ -1,11 +1,13 @@
 # CNPL
 
-Cooperative Non-Violent Public License v3 (CNPLv3)
+Cooperative Non-Violent Public License v4 (CNPLv4)
 
 
 License information and summary of purpose here: https://thufie.lain.haus/NPL.html
 
-This license is itself licensed under a custom license encouraging derivatives with different names and allowing free use otherwise for the sake of allowing creative adjustments while avoiding confusion.
+Please use the "+" at the end (like: NPLv4+) to allow future license revisions to apply.
+
+This license is itself licensed under a custom license encouraging derivatives with different names and allowing free use otherwise for the sake of allowing creative adjustments while avoiding confusion. 
 
 This license is based off of the [CSL](https://eunichx.us/c/) (Cooperative Software License) which is not actually just for software.
 
