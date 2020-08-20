@@ -1,6 +1,6 @@
 # CNPL
 
-Cooperative Non-Violent Public License v4 (CNPLv4)
+Cooperative Non-Violent Public License v5 (CNPLv5)
 
 
 License information and summary of purpose here: https://thufie.lain.haus/NPL.html
@@ -13,4 +13,4 @@ This license is based off of the [CSL](https://eunichx.us/c/) (Cooperative Softw
 
 ## Notes:
 
-- Highly recommended to upgrade to version 3 or keep with the latest version. A critical typo was fixed from version 2.
+- Even if you prefer lower revisions, it is highly recommended to stay with at least version 3 which fixed critical typos.
