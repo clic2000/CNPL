@@ -153,7 +153,7 @@ TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.
           overtly or covertly observe and record persons and or their
           activities.
 
-          p. "Web Service" means the use of a piece of Software to
+          p. "Network Service" means the use of a piece of Software to
           interpret or modify information that is subsequently and directly
           served to users over the Internet.
 
@@ -256,7 +256,7 @@ TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.
           form, or You provide a URI for the corresponding Source Code of
           the Work, to any recipients upon request.
 
-          d. If the Work is used as or for a Web Service, You may exercise
+          d. If the Work is used as or for a Network Service, You may exercise
           the rights granted in Section 3 only if You provide a copy of the
           corresponding Source Code from which the Work was derived in digital
           form, or You provide a URI for the corresponding Source Code to the
@@ -264,7 +264,7 @@ TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.
           Service.
 
           e. You may exercise the rights granted in Section 3 for
-          commercial purposes only if you satisfy any of the following:
+          commercial purposes only if:
 
                 i. You are a worker-owned business or worker-owned
                 collective; and
@@ -473,7 +473,7 @@ TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.
           a copy and/or URI of the corresponding Source Code on the same
           terms and conditions as the license granted to You under this License.
 
-          d. If the Work is used as a Web Service, each time You Distribute
+          d. If the Work is used as a Network Service, each time You Distribute
           or Publicly Perform an Adaptation, or serve data derived from the
           Software, the Licensor offers to any recipients of the data a copy
           and/or URI of the corresponding Source Code on the same terms and
